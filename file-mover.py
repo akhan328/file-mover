@@ -29,10 +29,10 @@ def move_files_based_on_trim(source_folder, destination_folder):
 
 
 if __name__ == "__main__":
-    # Set the source folder to the Downloads folder
-    source_folder = r"c:\Users\Anan\Downloads"
+    # Set the source folder to the where you are going to search from
+    source_folder = r""
 
     # Replace this path with your actual destination folder path
-    destination_folder = r"c:\Users\Anan\Desktop\redirect"
+    destination_folder = r""
 
     move_files_based_on_trim(source_folder, destination_folder)
