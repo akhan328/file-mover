@@ -1,6 +1,6 @@
 # file-mover
 
-A python script that moves the files from one location to another
+A python script that moves the files from one location to another. It's currently set to move files with the ending 'Trim.mp4'. When it has an assigned 'Source-Folder' it will check every available location within that folder, including other folders to find files.
 
 ## Skills Learned
 
@@ -10,4 +10,4 @@ A python script that moves the files from one location to another
 
 ## Reflection
 
-A great python script that solves an actual need, moving files from one location to another in bulk. Taught me automation in python and how to properly utilize it.
+A great python script that solves an actual need, moving files from one location to another in bulk. Taught me automation in python and how to properly utilize it for my own needs.
